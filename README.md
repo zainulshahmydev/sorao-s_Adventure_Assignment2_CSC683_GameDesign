@@ -13,3 +13,5 @@ Basic collision detection
 Single level gameplay
 
 Designed using Construct 2
+
+You can try to play here - https://zainulshahmydev.github.io/sorao-s_Adventure_Assignment2_CSC683_GameDesign/
